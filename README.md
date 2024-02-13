@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Jonathan</h1>
 <h3 align="center">I'm from Ecuador and I am a Systems engineer</h3>
 
-* Currently working for [handytec](https://www.handytec.mobi) as a DevOps Engineer
+* Currently working for [handytec](https://www.handytec.ai) as a DevOps Engineer
 
 ## Skills
 
