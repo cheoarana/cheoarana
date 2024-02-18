@@ -7,10 +7,10 @@
 ## Skills
 
 * Using Kubernetes in Production since 2019
-* Azure,Docker, Kubernetes, all the cloud stuff 
+* Azure, AWS, Docker, Kubernetes, all the cloud stuff 
 * Critical thinking, decision-making and problem solving skills
-* Some Python and Scala coding
-* Java lover
+* Python and some Scala coding
+* Databricks Administrator
 
 ## Connect me on Social Media
 
