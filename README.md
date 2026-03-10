@@ -8,7 +8,7 @@
 
 ---
 
-🌐 **[cheoarana.com](https://cheoarana.com)** · 📍 Ecuador · 💼 DevOps Engineer
+🌐 **[cheoarana.com](https://cheoarana.com)** · 📍 Ecuador · 💼 DevOps Engineer @ Handytec
 
 </div>
 
@@ -19,8 +19,8 @@
 Soy Ingeniero de Sistemas y **Platform/Cloud Engineer** con más de **10 años de experiencia** construyendo soluciones en la nube.
 A través de **[Cheoarana](https://cheoarana.com)** comparto tutoriales, consejos prácticos y contenido sobre Cloud, DevOps e Inteligencia Artificial con la comunidad tech hispanohablante.
 
-
-- ☁️ Especialista en **AWS, Azure y GCP** 
+- 🔭 Trabajando actualmente en **Handytec** como DevOps Engineer
+- ☁️ Especialista en **AWS, Azure y GCP** — Kubernetes en producción desde 2019
 - 🏅 **Azure Certified** | Databricks Administrator
 - 🤖 Apasionado por la **Inteligencia Artificial** aplicada al Cloud
 - ⚽ Explorando la **tecnología aplicada al Fútbol**
@@ -58,9 +58,10 @@ A través de **[Cheoarana](https://cheoarana.com)** comparto tutoriales, consejo
 
 <div align="center">
 
-![Jonathan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cheoarana&show_icons=true&theme=dark&title_color=00C896&icon_color=1A73E8&text_color=ffffff&bg_color=0D1117&border_color=1A73E8&hide_border=false)
+![Jonathan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheoarana&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cheoarana&layout=compact&theme=dark&title_color=00C896&text_color=ffffff&bg_color=0D1117&border_color=1A73E8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheoarana&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheoarana&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=cheoarana&theme=dark&background=0D1117&border=1A73E8&ring=00C896&fire=F5A623&currStreakLabel=00C896)
 
